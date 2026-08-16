@@ -18,17 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AI Engineering for Backend Development
+title: AI Engineering and Backend Development
 email: hn293773@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello. I'm Hung. You can call me Adam. I'm a developer who love to learn and share knowledge about AI Engineering
-  and Backend Development. At this personal blog, I share my practical and pragmatic viewpoint and insights into
-  every project I worked on. In the wave of AI innovation, choosing what to learn and build is the most essential
-  step for every developer, not just focus on any AI-related course. Hope my sharing would help some of you to know 
-  more about this AI and backend technology.
+  I share what I learned while building AI and backend systems
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+linkedin_username: nth4002
+linkedin_url: "https://www.linkedin.com/in/h%C3%B9ng-nguy%E1%BB%85n-thanh-210434264/"
 github_username:  nth4002
 
 # Build settings
